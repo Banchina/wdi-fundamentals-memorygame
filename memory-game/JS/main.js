@@ -11,7 +11,8 @@ if (cardsInPlay.length === 2) {
 	alert("Sorry, try again.");
 }
 
-
+console.log("User flipped " + cardOne);
+console.log("User flipped " + cardTwo);
 
 
 
