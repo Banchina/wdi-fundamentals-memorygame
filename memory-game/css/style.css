@@ -43,11 +43,11 @@ a:hover {
 }
 
 a.email {
-	margin: 0.3em; /* in preference to directions */
+	margin: 0.3em;/* in preference to directions */
 	
 }
 a.email:hover {
-	color: #00A6B3;
+	color: #00A6B3;/*preferential, so as not to white-out*/
 }
 
 h2 {
