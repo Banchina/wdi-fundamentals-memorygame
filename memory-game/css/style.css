@@ -43,7 +43,7 @@ a:hover {
 }
 
 a.email {
-	margin: 0.3em;
+	margin: 0.3em; /* in preference to directions */
 	
 }
 a.email:hover {
